@@ -1,0 +1,102 @@
+# בינגו בדים — Generative Engine Optimization Map
+
+> An online store specializing in fabrics and textiles, offering customers the ability to browse and purchase a variety of fabric types through a digital storefront. The business focuses on e-commerce sales of fabrics, catering to sewers, designers, or general consumers looking for textile products.
+
+---
+
+## Pages
+
+### בית
+https://-fa1847e0.zappy5.app
+חנות בדים אונליין עם מבחר עצום של טקסטילים לכל מטרה. גלו בדים מפנקים, עיצובים מעוררי השראה ומשלוחים מהירים. התחילו לתפור את החלום שלכם עוד היום!
+
+### מדריך חומרים
+https://-fa1847e0.zappy5.app/materials-guide
+צללו למדריך החומרים המקיף שלנו ולמדו לבחור את הבד המושלם לכל פרויקט תפירה. טיפים, השוואות והמלצות שיקדמו את היצירה שלכם צעד אחד קדימה.
+
+### אודות
+https://-fa1847e0.zappy5.app/about
+הסיפור של בינגו בדים מתחיל באהבה לטקסטילים וממשיך במחויבות לאיכות ושירות. הצטרפו למסע שלנו והפכו כל בד ליצירת אמנות עם חנות הטקסטילים המובילה.
+
+### צור קשר
+https://-fa1847e0.zappy5.app/contact
+יש לכם שאלה על בדים או צריכים ייעוץ אישי? צרו איתנו קשר עכשיו וקבלו מענה מהיר ומקצועי. אנחנו כאן כדי לעזור לכם להגשים כל פרויקט טקסטיל בקלות ובכיף!
+
+### Products
+https://-fa1847e0.zappy5.app/products
+המוצרים שלנו - בינגו בדים
+
+### Cart
+https://-fa1847e0.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-fa1847e0.zappy5.app/checkout
+תשלום
+
+### Login
+https://-fa1847e0.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-fa1847e0.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-fa1847e0.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-fa1847e0.zappy5.app/product/:slug
+פרטי המוצר - בינגו בדים
+
+### Category
+https://-fa1847e0.zappy5.app/category/:slug
+מוצרים - בינגו בדים
+
+### תודה שפניתם אלינו
+https://-fa1847e0.zappy5.app/thank-you
+בינגו בדים - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-fa1847e0.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-fa1847e0.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-fa1847e0.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About בינגו בדים
+An online store specializing in fabrics and textiles, offering customers the ability to browse and purchase a variety of fabric types through a digital storefront. The business focuses on e-commerce sales of fabrics, catering to sewers, designers, or general consumers looking for textile products.
+
+## Target Audience
+- מכירת בדים
+
+## Industry
+E-commerce - Textiles & Bedding
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-fa1847e0.zappy5.app/sitemap.xml
+- Robots: https://-fa1847e0.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-fa1847e0.zappy5.app/llms-full.txt
+- Products (JSON): https://-fa1847e0.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-fa1847e0.zappy5.app/product-feed.xml
