@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://-fa1847e0.zappy5.app
+https://example.com
 חנות בדים אונליין עם מבחר עצום של טקסטילים לכל מטרה. גלו בדים מפנקים, עיצובים מעוררי השראה ומשלוחים מהירים. התחילו לתפור את החלום שלכם עוד היום!
 
 ### מדריך חומרים
-https://-fa1847e0.zappy5.app/materials-guide
+https://example.com/materials-guide
 צללו למדריך החומרים המקיף שלנו ולמדו לבחור את הבד המושלם לכל פרויקט תפירה. טיפים, השוואות והמלצות שיקדמו את היצירה שלכם צעד אחד קדימה.
 
 ### אודות
-https://-fa1847e0.zappy5.app/about
+https://example.com/about
 הסיפור של בינגו בדים מתחיל באהבה לטקסטילים וממשיך במחויבות לאיכות ושירות. הצטרפו למסע שלנו והפכו כל בד ליצירת אמנות עם חנות הטקסטילים המובילה.
 
 ### צור קשר
-https://-fa1847e0.zappy5.app/contact
+https://example.com/contact
 יש לכם שאלה על בדים או צריכים ייעוץ אישי? צרו איתנו קשר עכשיו וקבלו מענה מהיר ומקצועי. אנחנו כאן כדי לעזור לכם להגשים כל פרויקט טקסטיל בקלות ובכיף!
 
 ### Products
-https://-fa1847e0.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - בינגו בדים
 
 ### Cart
-https://-fa1847e0.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-fa1847e0.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-fa1847e0.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-fa1847e0.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-fa1847e0.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-fa1847e0.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - בינגו בדים
 
 ### Category
-https://-fa1847e0.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - בינגו בדים
 
 ### תודה שפניתם אלינו
-https://-fa1847e0.zappy5.app/thank-you
+https://example.com/thank-you
 בינגו בדים - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-fa1847e0.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-fa1847e0.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-fa1847e0.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -95,8 +95,8 @@ E-commerce - Textiles & Bedding
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-fa1847e0.zappy5.app/sitemap.xml
-- Robots: https://-fa1847e0.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-fa1847e0.zappy5.app/llms-full.txt
-- Products (JSON): https://-fa1847e0.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-fa1847e0.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
